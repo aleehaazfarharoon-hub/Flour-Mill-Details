@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Flour Mill Management System",
+  "description": "Comprehensive flour mill enterprise management system with real-time operations, inventory tracking, quality lab metrics, client ledgers, financial instruments, and Gemini-powered advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
